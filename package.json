@@ -1,0 +1,26 @@
+{
+  "name": "bomberman-dom",
+  "version": "1.0.0",
+  "description": "Multiplayer Bomberman game using custom DOM framework",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node server/websocketServer.js",
+    "dev": "node server/websocketServer.js",
+    "serve": "npx http-server . -p 8080 -c-1 -o public/index.html"
+  },
+  "dependencies": {
+    "ws": "^8.18.3"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  },
+  "keywords": [
+    "bomberman",
+    "multiplayer",
+    "websocket",
+    "dom",
+    "game"
+  ],
+  "author": "Team of 5",
+  "license": "MIT"
+}
