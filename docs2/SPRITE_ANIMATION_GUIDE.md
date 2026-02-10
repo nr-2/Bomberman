@@ -5,7 +5,7 @@ The player movement animation system now uses a **sprite sheet** - a single imag
 
 ## Sprite Sheet Format Required
 
-Your `public/assets/player.png` sprite sheet should be organized as:
+Your `docs/assets/player.png` sprite sheet should be organized as:
 - **4 rows** (one for each direction): Down, Left, Right, Up
 - **4 columns** (animation frames per direction): Frame 1, Frame 2, Frame 3, Frame 4
 
@@ -73,7 +73,7 @@ This uses standard CSS `background-position` and works in all modern browsers.
 ## Troubleshooting
 
 **Animation not showing?**
-- Check that `player.png` exists in `public/assets/`
+- Check that `player.png` exists in `docs/assets/`
 - Verify sprite sheet is exactly **128x128px** with 4x4 grid
 - Clear browser cache (Ctrl+F5)
 

@@ -40,7 +40,7 @@ bomberman-dom/
 │   ├── game/           # Person 1 & 5: Game flow and performance
 │   ├── ui/             # Person 1: User interface
 │   └── utils/          # Shared utilities
-├── public/             # Static files (HTML, CSS)
+├── docs/             # Static files (HTML, CSS)
 ├── server/             # Person 4: WebSocket server
 └── docs/               # Documentation files
 ```

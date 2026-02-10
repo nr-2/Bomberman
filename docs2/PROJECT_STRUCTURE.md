@@ -26,7 +26,7 @@ bomberman-dom/
 │       ├── events.js                     # Event management system
 │       └── router.js                     # Routing system (for game screens)
 │
-├── 📁 public/                            # Served files
+├── 📁 docs/                            # Served files
 │   ├── index.html                        # Main HTML file
 │   ├── styles.css                        # Game styling
 │   └── assets/                           # Images, sprites (player.png, etc.)

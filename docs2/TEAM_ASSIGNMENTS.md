@@ -96,8 +96,8 @@
 These files can be worked on by anyone as needed:
 - `src/utils/collision.js` - Collision detection utilities
 - `src/utils/helpers.js` - Common helper functions
-- `public/index.html` - Main HTML structure (already set up)
-- `public/styles.css` - CSS styling (basic structure provided)
+- `docs/index.html` - Main HTML structure (already set up)
+- `docs/styles.css` - CSS styling (basic structure provided)
 
 ## Dependencies Between Teams:
 - **Person 1 & 4:** Game flow needs WebSocket integration

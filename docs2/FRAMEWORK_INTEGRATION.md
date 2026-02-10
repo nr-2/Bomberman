@@ -81,7 +81,7 @@ This file exports all framework functionality. Import it in your files:
 
 ## Integration Points
 
-### 1. HTML Structure (`public/index.html`)
+### 1. HTML Structure (`docs/index.html`)
 The framework is already included in the HTML:
 ```html
 <!-- Framework files -->
